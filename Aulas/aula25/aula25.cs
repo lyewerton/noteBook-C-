@@ -12,4 +12,9 @@ class aula25
     {
         valor *= 2;
     }
+
+    static void dobrar2(int valor)
+    {
+        valor *= 2;
+    }
 }
